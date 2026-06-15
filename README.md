@@ -7,6 +7,7 @@ Liste (au 13 juin) des titres envisagés :
 | Eric | Christophe Les mots bleus | OUI | mitigé |  |  | OUI |  
 | Patrice | Phil Collins Another day in..    | .  |  |  |  | OUI (cover par HSCC) | 
 | Véro | Phil Collins In the air tonight   |  OUI  | OUI |  |  | OUI (cover par HSCC) | 
+| Daniel | Gossip Heavy Cross |  |  |  |  | OUI |
 | Véro | The Korgis Everybodys got to learn..    | OUI | à essayer |  |  | OUI (sans le solo) | 
 | Véro | Cindy Lauper Time after time    | OUI | à essayer |  |  | à essayer | 
 | Daniel | Imelda May Tainted Love | |  |  |  | OUI (sans le solo)  |  
