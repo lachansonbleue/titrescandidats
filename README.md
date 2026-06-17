@@ -11,6 +11,7 @@ Liste (au 13 juin) des titres envisagés :
 | Véro | The Korgis Everybodys got to learn..    | OUI | à essayer |  |  | OUI (sans le solo) | . | 
 | Véro | Cindy Lauper Time after time    | OUI | à essayer |  |  | à essayer | . | 
 | Daniel | Imelda May Tainted Love | |  |  |  | OUI (sans le solo)  | . |  
+| ? | Bob Marley Is this love | OUI | OUI | OUI | OUI | OUI  | . |  
 | Véro | Muse Starlight    | OUI | mitigé |  |  | OUI | . | 
 | Thierry | Pink Floyd Wish you were here    | OUI | mais guitare solo |  |  | non(2 guitares) | . | 
 | Thierry | REM Losing my RELIGION    | OUI | mais 2 guitares |  |  | OUI | . | 
