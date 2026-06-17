@@ -1,9 +1,9 @@
 # titrescandidats
 Liste (au 13 juin) des titres envisagés :
 
-|  proposé par  |  titre  |  Patrice  |  Daniel  |  Eric  |  Thierry  |  Véro  |  guit.solo  |  
-|  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  
-|  Daniel  |  The Avener Castle in the snow  | p |  OUI   | e | t | v | s |  
+|  proposé par  |  titre  |  Patrice  |  Daniel  |  Eric  |  Thierry  |  Véro  |  guit.solo  | texte | version |  
+|  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  -------  |  
+|  Daniel  |  The Avener Castle in the snow  | p |  OUI   | e | t | v | s |  | <https://www.youtube.com/watch?v=LLgC0ZzEj54&list=RDLLgC0ZzEj54&start_radio=1> |
 |  ?  |  Beatles Let it be  | p | d | e | t | v | s |  
 |  Eric  |  Christophe Les mots bleus  |  mitigé  |  OUI  | e | t |  OUI  | s |  
 |  Patrice  |  Phil Collins Another day in..     | p |  OUI (cover par HSCC)  | e | t | v | s |  
