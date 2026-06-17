@@ -6,8 +6,8 @@ Liste (au 13 juin) des titres envisagés :
 |  Daniel  |  The Avener Castle in the snow  | p |  OUI   | e | t | v | s | [txt](https://www.azlyrics.com/lyrics/avener/castleinthesnow.html) | [ver](https://www.youtube.com/watch?v=LLgC0ZzEj54&list=RDLLgC0ZzEj54&start_radio=1) |
 |  ?  |  Beatles Let it be  | p | d | e | t | v | s |  
 |  Eric  |  Christophe Les mots bleus  |  mitigé  |  OUI  | e | t |  OUI  | s |  
-|  Patrice  |  Phil Collins Another day in..     | p |  OUI (cover par HSCC)  | e | t | v | s |  
-|  Véro  |  Phil Collins In the air tonight    |  OUI  |  OUI (cover par HSCC)  | e | t |   OUI   | s |  
+|  Patrice  |  Phil Collins Another day in..     | p |  OUI (cover par HSCC)  | e | t | v | s |  | [ver](https://www.youtube.com/watch?v=2mdOR52H4_I&list=RD2mdOR52H4_I&start_radio=1) |
+|  Véro  |  Phil Collins In the air tonight    |  OUI  |  OUI (cover par HSCC)  | e | t |   OUI   | s |  | [ver](https://www.youtube.com/watch?v=8VN4zZ01Fp8&list=RD8VN4zZ01Fp8&start_radio=1) |
 |  Daniel  |  Gossip Heavy Cross  | p |  OUI  | e | t | v | s |  [txt](https://genius.com/Gossip-heavy-cross-lyrics) | [ver](https://www.youtube.com/watch?v=laFzKzAjIRo&list=RDlaFzKzAjIRo&start_radio=1) |
 |  ?  |  Green day 21 guns  | p | d | e | t | v | s |  |  |
 |  Véro  |  The Korgis Everybodys got to learn..     |  à essayer  |  OUI (sans le solo)  | e | t |  OUI  | s |  
