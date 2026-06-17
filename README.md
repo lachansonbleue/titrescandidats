@@ -4,17 +4,23 @@ Liste (au 13 juin) des titres envisagés :
 | proposé par | titre | Véro | Patrice | Eric | Thierry | Daniel | guit.solo |   
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |  
 | Daniel | The Avener Castle in the snow | |  |  |  | OUI  | . |  
+| ? | Beatles Let it be |  |  |  |  |  | . |
 | Eric | Christophe Les mots bleus | OUI | mitigé |  |  | OUI | . |   
 | Patrice | Phil Collins Another day in..    | .  |  |  |  | OUI (cover par HSCC) | . |  
 | Véro | Phil Collins In the air tonight   |  OUI  | OUI |  |  | OUI (cover par HSCC) | . |  
 | Daniel | Gossip Heavy Cross |  |  |  |  | OUI | . |
+| ? | Green day 21 guns |  |  |  |  |  | . |
 | Véro | The Korgis Everybodys got to learn..    | OUI | à essayer |  |  | OUI (sans le solo) | . | 
 | Véro | Cindy Lauper Time after time    | OUI | à essayer |  |  | à essayer | . | 
 | Daniel | Imelda May Tainted Love | |  |  |  | OUI (sans le solo)  | . |  
+| ? | Lennon Imagine |  |  |  |  |  | . |
 | ? | Bob Marley Is this love | OUI | OUI | OUI | OUI | OUI  | . |  
 | Véro | Muse Starlight    | OUI | mitigé |  |  | OUI | . | 
+| ? | Oasis Supersonic |  |  |  |  |  | . |
+| ? | Oasis Wonderwall |  |  |  |  |  | . |
 | Thierry | Pink Floyd Wish you were here    | OUI | mais guitare solo |  |  | non(2 guitares) | . | 
 | Thierry | REM Losing my RELIGION    | OUI | mais 2 guitares |  |  | OUI | . | 
+| ? | Rolling Stones Angie |  |  |  |  |  | . |
 | Véro | Cat Stevens Father and son    | OUI |  |  |  | OUI | . | 
 | Patrice | Supertramp The logical song   | OUI | complexe |  |  | OUI | . | 
 | Véro | Tears for fears Shout   | OUI |  |  |  | OUI | . | 
@@ -23,3 +29,5 @@ Liste (au 13 juin) des titres envisagés :
 | Patrice | Vaya con Dios Just a friend of mine    |  | OUI |  |  | . | . | 
 | Thierry | Amy Winehouse Back to black    | non |  |  |  |  | . | 
 |  |  |  |  |  |  |  | . |
+
+
