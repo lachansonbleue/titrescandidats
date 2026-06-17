@@ -1,7 +1,7 @@
 # titrescandidats
 Liste (au 13 juin) des titres envisagés :
 
-| proposé par | titre | Véro | Patrice | Eric | Thierry | Daniel |   
+| proposé par | titre | Véro | Patrice | Eric | Thierry | Daniel | guit.solo |   
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | Daniel | The Avener Castle in the snow | |  |  |  | OUI  |  
 | Eric | Christophe Les mots bleus | OUI | mitigé |  |  | OUI |  
