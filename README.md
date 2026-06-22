@@ -29,6 +29,6 @@ Liste (au 13 juin) des titres envisagés :
 |  Patrice  |  Vaya con Dios Just a friend of mine     |  OUI  | d | e | t | v | s |  
 |  Thierry  |  Amy Winehouse Back to black     | p | d | e | t |  non  | s |  
 | ? | ?? | p | d | e | t | v | s |  
-|  |  |  |  |  |  |  | . |
+| [liste21juin](https://drive.google.com/file/d/1TPRHkPDKFlPw7RUx_jScqkeheaiLncsp/view?usp=sharing) |  |  |  |  |  |  | . |
 
 
